@@ -48,6 +48,9 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# Skip Content files for now due to default available Git size
+Content/*
+
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
